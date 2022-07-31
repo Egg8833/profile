@@ -364,10 +364,6 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
-.about img{
-  object-fit: cover;
-  height: 100%;
-}
 
 /*--------------------------------------------------------------
 # Facts
